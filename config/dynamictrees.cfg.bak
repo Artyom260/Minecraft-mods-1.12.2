@@ -130,7 +130,7 @@ world {
     B:vanillaCactusWorldGen=false
 
     # World Generation produces Dynamic Trees instead of Vanilla trees. [default: true]
-    B:worldGen=false
+    B:worldGen=true
 }
 
 
