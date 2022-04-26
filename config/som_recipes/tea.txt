@@ -1,0 +1,64 @@
+# Tea file
+# notes: If you add additional tea potion effects, ensure to add to add it's name to the language file.
+
+# Default recipes
+<start_recipe>  <name>tea_pyromancy;  <input1> <plant>pyromancy;  <input2> <plant>pyromancy;  <input3> <plant>pyromancy;  <potion>som:pyromancy, <duration>1200, <amplifier>0;  
+<start_recipe>  <name>tea_heliomancy;  <input1> <plant>heliomancy;  <input2> <plant>heliomancy;  <input3> <plant>heliomancy;  <potion>som:heliomancy, <duration>1200, <amplifier>0;  
+<start_recipe>  <name>tea_aeromancy;  <input1> <plant>aeromancy;  <input2> <plant>aeromancy;  <input3> <plant>aeromancy;  <potion>som:aeromancy, <duration>1200, <amplifier>0;  
+<start_recipe>  <name>tea_geomancy;  <input1> <plant>geomancy;  <input2> <plant>geomancy;  <input3> <plant>geomancy;  <potion>som:geomancy, <duration>1200, <amplifier>0;  
+<start_recipe>  <name>tea_animancy;  <input1> <plant>animancy;  <input2> <plant>animancy;  <input3> <plant>animancy;  <potion>som:animancy, <duration>1200, <amplifier>0;  
+<start_recipe>  <name>tea_electromancy;  <input1> <plant>electromancy;  <input2> <plant>electromancy;  <input3> <plant>electromancy;  <potion>som:electromancy, <duration>1200, <amplifier>0;  
+<start_recipe>  <name>tea_hydromancy;  <input1> <plant>hydromancy;  <input2> <plant>hydromancy;  <input3> <plant>hydromancy;  <potion>som:hydromancy, <duration>1200, <amplifier>0;  
+<start_recipe>  <name>tea_spectromancy;  <input1> <plant>spectromancy;  <input2> <plant>spectromancy;  <input3> <plant>spectromancy;  <potion>som:spectromancy, <duration>1200, <amplifier>0;  
+<start_recipe>  <name>tea_chaotics;  <input1> <plant>chaotics;  <input2> <plant>chaotics;  <input3> <plant>chaotics;  <potion>som:chaotics, <duration>1200, <amplifier>0;  
+<start_recipe>  <name>tea_auramancy;  <input1> <plant>auramancy;  <input2> <plant>auramancy;  <input3> <plant>auramancy;  <potion>som:auramancy, <duration>1200, <amplifier>0;  
+<start_recipe>  <name>tea_astromancy;  <input1> <plant>astromancy;  <input2> <plant>astromancy;  <input3> <plant>astromancy;  <potion>som:astromancy, <duration>1200, <amplifier>0;  
+<start_recipe>  <name>tea_infernality;  <input1> <plant>infernality;  <input2> <plant>infernality;  <input3> <plant>infernality;  <potion>som:infernality, <duration>1200, <amplifier>0;  
+<start_recipe>  <name>tea_hieromancy;  <input1> <plant>hieromancy;  <input2> <plant>hieromancy;  <input3> <plant>hieromancy;  <potion>som:hieromancy, <duration>1200, <amplifier>0;  
+<start_recipe>  <name>tea_umbramancy;  <input1> <plant>umbramancy;  <input2> <plant>umbramancy;  <input3> <plant>umbramancy;  <potion>som:umbramancy, <duration>1200, <amplifier>0;  
+<start_recipe>  <name>tea_necromancy;  <input1> <plant>necromancy;  <input2> <plant>necromancy;  <input3> <plant>necromancy;  <potion>som:necromancy, <duration>1200, <amplifier>0;  
+<start_recipe>  <name>tea_cryomancy;  <input1> <plant>cryomancy;  <input2> <plant>cryomancy;  <input3> <plant>cryomancy;  <potion>som:cryomancy, <duration>1200, <amplifier>0;  
+<start_recipe>  <name>tea_fire_resistance;  <input1> <plant>pyromancy;  <input2> <plant>fireberry;  <input3> <plant>sage;  <potion>minecraft:fire_resistance, <duration>400, <amplifier>0;  
+<start_recipe>  <name>tea_water_breathing;  <input1> <plant>hydromancy;  <input2> <plant>hydrangea;  <input3> <plant>sage;  <potion>minecraft:water_breathing, <duration>600, <amplifier>0;  
+<start_recipe>  <name>tea_night_vision;  <input1> <plant>heliomancy;  <input2> <plant>creosote;  <input3> <plant>carrot;  <potion>minecraft:night_vision, <duration>600, <amplifier>0;  
+<start_recipe>  <name>tea_jump_boost;  <input1> <plant>electromancy;  <input2> <plant>auramancy;  <input3> <plant>carrot;  <potion>minecraft:jump_boost, <duration>400, <amplifier>0;  
+<start_recipe>  <name>tea_haste;  <input1> <plant>electromancy;  <input2> <plant>fireberry;  <input3> <plant>sugarcane;  <potion>minecraft:haste, <duration>400, <amplifier>0;  
+<start_recipe>  <name>tea_speed;  <input1> <plant>electromancy;  <input2> <plant>beanstalk;  <input3> <plant>sugarcane;  <potion>minecraft:speed, <duration>600, <amplifier>0;  
+<start_recipe>  <name>tea_regeneration;  <input1> <plant>spectromancy;  <input2> <plant>auramancy;  <input3> <plant>mandrake;  <potion>minecraft:regeneration, <duration>400, <amplifier>0;  
+<start_recipe>  <name>tea_health;  <input1> <plant>spectromancy;  <input2> <plant>spectromancy;  <input3> <plant>brittlebush;  <potion>minecraft:instant_health, <duration>0, <amplifier>0;  
+<start_recipe>  <name>tea_resistance;  <input1> <plant>geomancy;  <input2> <plant>rose;  <input3> <plant>fireberry;  <potion>minecraft:resistance, <duration>400, <amplifier>0;  
+<start_recipe>  <name>tea_invisibility;  <input1> <plant>astromancy;  <input2> <plant>umbramancy;  <input3> <plant>sunflower;  <potion>minecraft:invisibility, <duration>400, <amplifier>0;  
+<start_recipe>  <name>tea_saturation;  <input1> <plant>animancy;  <input2> <plant>wheat;  <input3> <plant>carrot;  <potion>minecraft:saturation, <duration>600, <amplifier>3;  
+<start_recipe>  <name>tea_luck;  <input1> <plant>heliomancy;  <input2> <plant>cattail;  <input3> <itemstack> <item>som:item, <data>12;  <potion>minecraft:luck, <duration>400, <amplifier>0;  
+<start_recipe>  <name>tea_wither;  <input1> <plant>necromancy;  <input2> <plant>infernality;  <input3> <plant>bramble;  <potion>minecraft:wither, <duration>300, <amplifier>0;  
+<start_recipe>  <name>tea_blindness;  <input1> <plant>umbramancy;  <input2> <plant>graveroot;  <input3> <plant>oleander;  <potion>minecraft:blindness, <duration>400, <amplifier>0;  
+<start_recipe>  <name>tea_weakness;  <input1> <plant>hieromancy;  <input2> <plant>valleylily;  <input3> <plant>bladderwort;  <potion>minecraft:weakness, <duration>400, <amplifier>0;  
+<start_recipe>  <name>tea_hunger;  <input1> <plant>spectromancy;  <input2> <plant>graveroot;  <input3> <plant>nightberry;  <potion>minecraft:hunger, <duration>400, <amplifier>0;  
+<start_recipe>  <name>tea_poison;  <input1> <plant>infernality;  <input2> <plant>nightberry;  <input3> <plant>valleylily;  <potion>minecraft:poison, <duration>400, <amplifier>0;  
+<start_recipe>  <name>tea_nausea;  <input1> <plant>hieromancy;  <input2> <plant>mistletoe;  <input3> <plant>oleander;  <potion>minecraft:nausea, <duration>400, <amplifier>0;  
+<start_recipe>  <name>tea_damage;  <input1> <plant>necromancy;  <input2> <plant>spectromancy;  <input3> <plant>oleander;  <potion>minecraft:instant_damage, <duration>400, <amplifier>0;  
+<start_recipe>  <name>tea_mining_fatigue;  <input1> <plant>cryomancy;  <input2> <plant>graveroot;  <input3> <plant>wheat;  <potion>minecraft:mining_fatigue, <duration>400, <amplifier>0;  
+<start_recipe>  <name>tea_slowness;  <input1> <plant>cryomancy;  <input2> <plant>peony;  <input3> <plant>sunflower;  <potion>minecraft:slowness, <duration>400, <amplifier>0;  
+<start_recipe>  <name>tea_levitation;  <input1> <plant>chaotics;  <input2> <plant>aeromancy;  <input3> <plant>peony;  <potion>minecraft:levitation, <duration>300, <amplifier>0;  
+<start_recipe>  <name>tea_slowfall;  <input1> <plant>aeromancy;  <input2> <plant>palm;  <input3> <plant>brittlebush;  <potion>som:slowfall, <duration>400, <amplifier>0;  
+<start_recipe>  <name>tea_repellant;  <input1> <plant>auramancy;  <input2> <plant>mistletoe;  <input3> <plant>flytrap;  <potion>som:repellant, <duration>400, <amplifier>0;  
+<start_recipe>  <name>tea_creepers_bane;  <input1> <plant>heliomancy;  <input2> <plant>sage;  <input3> <itemstack> <item>som:item, <data>12;  <potion>som:creepers_bane, <duration>1200, <amplifier>0;  
+<start_recipe>  <name>tea_blurry_vision;  <input1> <plant>hieromancy;  <input2> <plant>carrot;  <input3> <plant>mistletoe;  <potion>som:blurry_vision, <duration>400, <amplifier>0;  
+<start_recipe>  <name>tea_mana;  <input1> <plant>spectromancy;  <input2> <plant>electromancy;  <input3> <itemstack> <item>som:item, <data>12;  <potion>som:mana, <duration>0, <amplifier>0;  
+<start_recipe>  <name>tea_mana_regen;  <input1> <plant>electromancy;  <input2> <plant>sage;  <input3> <plant>fireberry;  <potion>som:mana_regen, <duration>400, <amplifier>0;  
+<start_recipe>  <name>tea_dislocation;  <input1> <plant>chaotics;  <input2> <plant>palm;  <input3> <plant>valleylily;  <potion>som:dislocation, <duration>300, <amplifier>0;  
+<start_recipe>  <name>tea_spined;  <input1> <plant>animancy;  <input2> <plant>rose;  <input3> <plant>bramble;  <potion>som:spined, <duration>400, <amplifier>0;  
+<start_recipe>  <name>tea_stench;  <input1> <plant>infernality;  <input2> <plant>graveroot;  <input3> <plant>aeromancy;  <potion>som:stench, <duration>400, <amplifier>0;  
+<start_recipe>  <name>tea_obscuration;  <input1> <plant>umbramancy;  <input2> <plant>umbramancy;  <input3> <plant>mistletoe;  <potion>som:obscuration, <duration>400, <amplifier>0;  
+<start_recipe>  <name>tea_color_blind;  <input1> <plant>umbramancy;  <input2> <plant>bladderwort;  <input3> <plant>valleylily;  <potion>som:color_blind, <duration>400, <amplifier>0;  
+<start_recipe>  <name>tea_earth_protection;  <input1> <plant>geomancy;  <input2> <plant>palm;  <input3> <plant>sage;  <potion>som:earth_protection, <duration>1200, <amplifier>0;  
+<start_recipe>  <name>tea_flamability;  <input1> <plant>pyromancy;  <input2> <plant>brittlebush;  <input3> <plant>infernality;  <potion>som:flamability, <duration>400, <amplifier>0;  
+<start_recipe>  <name>tea_frostbite;  <input1> <plant>cryomancy;  <input2> <plant>brittlebush;  <input3> <plant>infernality;  <potion>som:frostbite, <duration>400, <amplifier>0;  
+<start_recipe>  <name>tea_glowing;  <input1> <plant>heliomancy;  <input2> <plant>sunflower;  <input3> <plant>creosote;  <potion>minecraft:glowing, <duration>400, <amplifier>0;  
+<start_recipe>  <name>tea_stunned;  <input1> <plant>electromancy;  <input2> <plant>electromancy;  <input3> <plant>nightberry;  <potion>som:stunned, <duration>400, <amplifier>0;  
+<start_recipe>  <name>tea_undead;  <input1> <plant>necromancy;  <input2> <plant>necromancy;  <input3> <plant>nightberry;  <potion>som:undead, <duration>600, <amplifier>0;  
+<start_recipe>  <name>tea_hallucination;  <input1> <plant>hieromancy;  <input2> <plant>hieromancy;  <input3> <plant>mistletoe;  <potion>som:hallucination, <duration>400, <amplifier>0;  
+<start_recipe>  <name>tea_sleep;  <input1> <plant>astromancy;  <input2> <plant>astromancy;  <input3> <plant>creosote;  <potion>som:sleep, <duration>200, <amplifier>0;  
+
+
+# User recipes
